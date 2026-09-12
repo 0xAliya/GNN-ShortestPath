@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 项目生成物（可由脚本重新生成）
+data/
+models/
+results/
+
+# 系统 / 编辑器
+.DS_Store
+.idea/
+.vscode/
